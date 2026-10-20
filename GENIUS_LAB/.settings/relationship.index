@@ -1,5 +1,24 @@
 [ {
   "baseItem" : {
+    "id" : "_-b5vMMy1EfGST5Ian5T7BA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_kLswoMybEfGST5Ian5T7BA",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_6SSjkMy3EfGST5Ian5T7BA - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_q9HSsMyeEfGST5Ian5T7BA - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
     "id" : "_7jWCMMv7EfGP65Woon5GhQ",
     "version" : "0.1",
     "type" : "job"
