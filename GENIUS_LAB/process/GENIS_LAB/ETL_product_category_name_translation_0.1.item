@@ -7,7 +7,25 @@
     <contextParameter comment="" name="DB_NAME" prompt="DB_NAME?" promptNeeded="false" repositoryContextId="_kLswoMybEfGST5Ian5T7BA" type="id_String" value="DSADEV" internalId="_OcbyY8ycEfGST5Ian5T7BA"/>
     <contextParameter comment="" name="DB_USER" prompt="DB_USER?" promptNeeded="false" repositoryContextId="_kLswoMybEfGST5Ian5T7BA" type="id_String" value="dev_genius" internalId="_OcbyZMycEfGST5Ian5T7BA"/>
     <contextParameter comment="" name="DB_PASSWORD" prompt="DB_PASSWORD?" promptNeeded="false" repositoryContextId="_kLswoMybEfGST5Ian5T7BA" type="id_Password" value="enc:system.encryption.key.v1:J3tXpQ5ZN1GQUBq80czyOQ1YYg3QDLcYMBlWbgdP0GZztdMzbg3ry+OsVGQ=" internalId="_OcdAgMycEfGST5Ian5T7BA"/>
-    <contextParameter comment="" name="LOAD_SOURCE_TAG" prompt="LOAD_SOURCE_TAG?" promptNeeded="false" repositoryContextId="_kLswoMybEfGST5Ian5T7BA" type="id_String" value="lab05_olist_orders_enriched" internalId="_OcdAgcycEfGST5Ian5T7BA"/>
+    <contextParameter comment="" name="LOAD_SOURCE_TAG" prompt="LOAD_SOURCE_TAG?" promptNeeded="false" repositoryContextId="_kLswoMybEfGST5Ian5T7BA" type="id_String" value=" lab06_olist_pipeline" internalId="_OcdAgcycEfGST5Ian5T7BA"/>
+  </context>
+  <context confirmationNeeded="false" hide="false" name="QA">
+    <contextParameter comment="" name="FILE_OLIST" prompt="FILE_OLIST?" promptNeeded="false" repositoryContextId="_kLswoMybEfGST5Ian5T7BA" type="id_String" value="C:/Tmp/FUENTES/" internalId="_5KsHcM1pEfG-9pEp4ObE7w"/>
+    <contextParameter comment="" name="DB_HOST" prompt="DB_HOST?" promptNeeded="false" repositoryContextId="_kLswoMybEfGST5Ian5T7BA" type="id_String" value="209.50.245.36" internalId="_5KsHcc1pEfG-9pEp4ObE7w"/>
+    <contextParameter comment="" name="DB_PORT" prompt="DB_PORT?" promptNeeded="false" repositoryContextId="_kLswoMybEfGST5Ian5T7BA" type="id_String" value="3306" internalId="_5KsHcs1pEfG-9pEp4ObE7w"/>
+    <contextParameter comment="" name="DB_NAME" prompt="DB_NAME?" promptNeeded="false" repositoryContextId="_kLswoMybEfGST5Ian5T7BA" type="id_String" value="DSADEV" internalId="_5KsHc81pEfG-9pEp4ObE7w"/>
+    <contextParameter comment="" name="DB_USER" prompt="DB_USER?" promptNeeded="false" repositoryContextId="_kLswoMybEfGST5Ian5T7BA" type="id_String" value="dev_genius" internalId="_5KsHdM1pEfG-9pEp4ObE7w"/>
+    <contextParameter comment="" name="DB_PASSWORD" prompt="DB_PASSWORD?" promptNeeded="false" repositoryContextId="_kLswoMybEfGST5Ian5T7BA" type="id_Password" value="enc:system.encryption.key.v1:P9d8e1S94Isus2XlFrxp1J6ecQNRkZEfYgdLQ9JcRn9IzJXVkJwm9eek2AM=" internalId="_5KsHdc1pEfG-9pEp4ObE7w"/>
+    <contextParameter comment="" name="LOAD_SOURCE_TAG" prompt="LOAD_SOURCE_TAG?" promptNeeded="false" repositoryContextId="_kLswoMybEfGST5Ian5T7BA" type="id_String" value=" lab06_olist_pipeline" internalId="_5KsHds1pEfG-9pEp4ObE7w"/>
+  </context>
+  <context confirmationNeeded="false" hide="false" name="PROD">
+    <contextParameter comment="" name="FILE_OLIST" prompt="FILE_OLIST?" promptNeeded="false" repositoryContextId="_kLswoMybEfGST5Ian5T7BA" type="id_String" value="C:/Tmp/FUENTES/" internalId="_5KsHd81pEfG-9pEp4ObE7w"/>
+    <contextParameter comment="" name="DB_HOST" prompt="DB_HOST?" promptNeeded="false" repositoryContextId="_kLswoMybEfGST5Ian5T7BA" type="id_String" value="209.50.245.36" internalId="_5KsHeM1pEfG-9pEp4ObE7w"/>
+    <contextParameter comment="" name="DB_PORT" prompt="DB_PORT?" promptNeeded="false" repositoryContextId="_kLswoMybEfGST5Ian5T7BA" type="id_String" value="3306" internalId="_5KsHec1pEfG-9pEp4ObE7w"/>
+    <contextParameter comment="" name="DB_NAME" prompt="DB_NAME?" promptNeeded="false" repositoryContextId="_kLswoMybEfGST5Ian5T7BA" type="id_String" value="DSADEV" internalId="_5KsHes1pEfG-9pEp4ObE7w"/>
+    <contextParameter comment="" name="DB_USER" prompt="DB_USER?" promptNeeded="false" repositoryContextId="_kLswoMybEfGST5Ian5T7BA" type="id_String" value="dev_genius" internalId="_5KsHe81pEfG-9pEp4ObE7w"/>
+    <contextParameter comment="" name="DB_PASSWORD" prompt="DB_PASSWORD?" promptNeeded="false" repositoryContextId="_kLswoMybEfGST5Ian5T7BA" type="id_Password" value="enc:system.encryption.key.v1:P9d8e1S94Isus2XlFrxp1J6ecQNRkZEfYgdLQ9JcRn9IzJXVkJwm9eek2AM=" internalId="_5KsHfM1pEfG-9pEp4ObE7w"/>
+    <contextParameter comment="" name="LOAD_SOURCE_TAG" prompt="LOAD_SOURCE_TAG?" promptNeeded="false" repositoryContextId="_kLswoMybEfGST5Ian5T7BA" type="id_String" value=" lab06_olist_pipeline" internalId="_5KsHfc1pEfG-9pEp4ObE7w"/>
   </context>
   <parameters>
     <elementParameter field="CLOSED_LIST" name="LOG4J_RUN_LEVEL" value="Info" show="false"/>
