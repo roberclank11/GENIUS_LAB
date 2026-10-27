@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:dataquality.analysis="http://dataquality.analysis" xmlns:orgomg.cwm.objectmodel.core="http:///orgomg/cwm/objectmodel/core.ecore" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_u0VFkNFkEfGmq708hwrXFw" name="Order_reviews" supplierDependency="_MoC9UtF2EfGlKpMundrNlA" dataPackage="_u0VFkdFkEfGmq708hwrXFw" Server="Localhost 127.0.0.1" FilePath="C:/Tmp/FUENTES/olist_order_reviews_dataset.csv" Format="WINDOWS" Encoding="UTF-8" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" FieldSeparatorType="Comma">
+    <taggedValue xmi:id="_7zp9kNF2EfGlKpMundrNlA" tag="DB ProductName" value=""/>
+    <taggedValue xmi:id="_7zp9kdF2EfGlKpMundrNlA" tag="DB ProductVersion" value=""/>
+  </TalendMetadata:DelimitedFileConnection>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_u0VFkdFkEfGmq708hwrXFw" name="default" dataManager="_u0VFkNFkEfGmq708hwrXFw">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_u0VFktFkEfGmq708hwrXFw" id="_kuGccNFkEfGmq708hwrXFw" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_u0VFk9FkEfGmq708hwrXFw" name="review_id" id="review_id" label="review_id" length="52" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <taggedValue xmi:id="_MoC9U9F2EfGlKpMundrNlA" tag="Content Type" value="Nominal"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_u0VFlNFkEfGmq708hwrXFw" name="order_id" id="order_id" label="order_id" length="34" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <taggedValue xmi:id="_MoC9ZtF2EfGlKpMundrNlA" tag="Content Type" value="Nominal"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_u0VFldFkEfGmq708hwrXFw" name="review_score" id="review_score" label="review_score" length="19" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <taggedValue xmi:id="_MoC9edF2EfGlKpMundrNlA" tag="Content Type" value="Nominal"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_u0VFltFkEfGmq708hwrXFw" name="review_comment_title" id="review_comment_title" label="review_comment_title" length="24" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <taggedValue xmi:id="_MoC9jNF2EfGlKpMundrNlA" tag="Content Type" value="Nominal"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_u0VFl9FkEfGmq708hwrXFw" name="review_comment_message" id="review_comment_message" label="review_comment_message" length="175" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <taggedValue xmi:id="_MoC9n9F2EfGlKpMundrNlA" tag="Content Type" value="Nominal"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_u0VFmNFkEfGmq708hwrXFw" name="review_creation_date" id="review_creation_date" label="review_creation_date" length="106" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <taggedValue xmi:id="_MoC9stF2EfGlKpMundrNlA" tag="Content Type" value="Nominal"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_u0VFmdFkEfGmq708hwrXFw" name="review_answer_timestamp" id="review_answer_timestamp" label="review_answer_timestamp" length="19" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <taggedValue xmi:id="_MoC9xdF2EfGlKpMundrNlA" tag="Content Type" value="Nominal"/>
+      </feature>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+  <orgomg.cwm.objectmodel.core:Dependency xmi:id="_MoC9UtF2EfGlKpMundrNlA" kind="Usage" supplier="_u0VFkNFkEfGmq708hwrXFw">
+    <client xsi:type="dataquality.analysis:Analysis" href="../../../TDQ_Data Profiling/Analyses/OLIST/Analisis_orders_review_0.1.ana#_9f0Z4NF1EfGlKpMundrNlA"/>
+  </orgomg.cwm.objectmodel.core:Dependency>
+</xmi:XMI>

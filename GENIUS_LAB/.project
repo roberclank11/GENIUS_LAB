@@ -9,4 +9,136 @@
 	<natures>
 		<nature>org.talend.core.talendnature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>.Report_Ordenes-20261026-1431-00048.pdf</name>
+			<type>1</type>
+			<location>C:/Users/rober/OneDrive/Documents/ROBERTO JIMÉNEZ/GENIUS LAB III AND IV/REPORTES/Report_Ordenes-20261026-1431-00048.pdf</location>
+		</link>
+		<link>
+			<name>.Report_Ordenes-20261026-2231-00016.xls</name>
+			<type>1</type>
+			<location>C:/Users/rober/OneDrive/Documents/ROBERTO JIMÉNEZ/GENIUS LAB III AND IV/PROFILING/LAB07/ENTREGABLES/Report_Ordenes-20261026-2231-00016.xls</location>
+		</link>
+		<link>
+			<name>.Report_Order_Items-20261026-1617-00058.pdf</name>
+			<type>1</type>
+			<location>C:/Users/rober/OneDrive/Documents/ROBERTO JIMÉNEZ/GENIUS LAB III AND IV/REPORTES/Report_Order_Items-20261026-1617-00058.pdf</location>
+		</link>
+		<link>
+			<name>.Report_Order_Items-20261026-2232-00013.xls</name>
+			<type>1</type>
+			<location>C:/Users/rober/OneDrive/Documents/ROBERTO JIMÉNEZ/GENIUS LAB III AND IV/PROFILING/LAB07/ENTREGABLES/Report_Order_Items-20261026-2232-00013.xls</location>
+		</link>
+		<link>
+			<name>.Report_producto_category-20261026-1635-00032.pdf</name>
+			<type>1</type>
+			<location>C:/Users/rober/OneDrive/Documents/ROBERTO JIMÉNEZ/GENIUS LAB III AND IV/REPORTES/Report_producto_category-20261026-1635-00032.pdf</location>
+		</link>
+		<link>
+			<name>.Report_producto_category-20261026-2215-00058.xls</name>
+			<type>1</type>
+			<location>C:/Users/rober/OneDrive/Documents/ROBERTO JIMÉNEZ/GENIUS LAB III AND IV/REPORTES/Report_producto_category-20261026-2215-00058.xls</location>
+		</link>
+		<link>
+			<name>.Report_producto_category-20261026-2227-00017.xls</name>
+			<type>1</type>
+			<location>C:/Users/rober/OneDrive/Documents/ROBERTO JIMÉNEZ/GENIUS LAB III AND IV/PROFILING/LAB07/ENTREGABLES/Report_producto_category-20261026-2227-00017.xls</location>
+		</link>
+		<link>
+			<name>.Reporte_Clientes-20261026-1437-00030.pdf</name>
+			<type>1</type>
+			<location>C:/Users/rober/OneDrive/Documents/ROBERTO JIMÉNEZ/GENIUS LAB III AND IV/REPORTES/Reporte_Clientes-20261026-1437-00030.pdf</location>
+		</link>
+		<link>
+			<name>.Reporte_Clientes-20261026-2213-00026.xls</name>
+			<type>1</type>
+			<location>C:/Users/rober/OneDrive/Documents/ROBERTO JIMÉNEZ/GENIUS LAB III AND IV/REPORTES/Reporte_Clientes-20261026-2213-00026.xls</location>
+		</link>
+		<link>
+			<name>.Reporte_Clientes-20261026-2218-00057.xls</name>
+			<type>1</type>
+			<location>C:/Users/rober/OneDrive/Documents/ROBERTO JIMÉNEZ/GENIUS LAB III AND IV/PROFILING/LAB07/ENTREGABLES/Reporte_Clientes-20261026-2218-00057.xls</location>
+		</link>
+		<link>
+			<name>.Reporte_Order_Items-20261026-2202-00038.xls</name>
+			<type>1</type>
+			<location>C:/Users/rober/OneDrive/Documents/ROBERTO JIMÉNEZ/GENIUS LAB III AND IV/PROFILING/LAB07/ENTREGABLES/XLS/Reporte_Order_Items-20261026-2202-00038.xls</location>
+		</link>
+		<link>
+			<name>.Reporte_Order_Payments-20261026-1458-00001.pdf</name>
+			<type>1</type>
+			<location>C:/Users/rober/OneDrive/Documents/ROBERTO JIMÉNEZ/GENIUS LAB III AND IV/REPORTES/Reporte_Order_Payments-20261026-1458-00001.pdf</location>
+		</link>
+		<link>
+			<name>.Reporte_Order_Payments-20261026-2214-00058.xls</name>
+			<type>1</type>
+			<location>C:/Users/rober/OneDrive/Documents/ROBERTO JIMÉNEZ/GENIUS LAB III AND IV/REPORTES/Reporte_Order_Payments-20261026-2214-00058.xls</location>
+		</link>
+		<link>
+			<name>.Reporte_Order_Payments-20261026-2221-00049.xls</name>
+			<type>1</type>
+			<location>C:/Users/rober/OneDrive/Documents/ROBERTO JIMÉNEZ/GENIUS LAB III AND IV/PROFILING/LAB07/ENTREGABLES/Reporte_Order_Payments-20261026-2221-00049.xls</location>
+		</link>
+		<link>
+			<name>.Reporte_Review_Order-20261026-1841-00050.pdf</name>
+			<type>1</type>
+			<location>C:/Users/rober/OneDrive/Documents/ROBERTO JIMÉNEZ/GENIUS LAB III AND IV/REPORTES/Reporte_Review_Order-20261026-1841-00050.pdf</location>
+		</link>
+		<link>
+			<name>.Reporte_Review_Order-20261026-2215-00051.xls</name>
+			<type>1</type>
+			<location>C:/Users/rober/OneDrive/Documents/ROBERTO JIMÉNEZ/GENIUS LAB III AND IV/REPORTES/Reporte_Review_Order-20261026-2215-00051.xls</location>
+		</link>
+		<link>
+			<name>.Reporte_Review_Order-20261026-2223-00025.xls</name>
+			<type>1</type>
+			<location>C:/Users/rober/OneDrive/Documents/ROBERTO JIMÉNEZ/GENIUS LAB III AND IV/PROFILING/LAB07/ENTREGABLES/Reporte_Review_Order-20261026-2223-00025.xls</location>
+		</link>
+		<link>
+			<name>.Reporte_Sellers-20261026-1629-00048.pdf</name>
+			<type>1</type>
+			<location>C:/Users/rober/OneDrive/Documents/ROBERTO JIMÉNEZ/GENIUS LAB III AND IV/REPORTES/Reporte_Sellers-20261026-1629-00048.pdf</location>
+		</link>
+		<link>
+			<name>.Reporte_Sellers-20261026-2228-00039.xls</name>
+			<type>1</type>
+			<location>C:/Users/rober/OneDrive/Documents/ROBERTO JIMÉNEZ/GENIUS LAB III AND IV/PROFILING/LAB07/ENTREGABLES/Reporte_Sellers-20261026-2228-00039.xls</location>
+		</link>
+		<link>
+			<name>.Reporte_geolocation-20261026-1642-00031.pdf</name>
+			<type>1</type>
+			<location>C:/Users/rober/OneDrive/Documents/ROBERTO JIMÉNEZ/GENIUS LAB III AND IV/REPORTES/Reporte_geolocation-20261026-1642-00031.pdf</location>
+		</link>
+		<link>
+			<name>.Reporte_geolocation-20261026-2205-00031.xls</name>
+			<type>1</type>
+			<location>C:/Users/rober/OneDrive/Documents/ROBERTO JIMÉNEZ/GENIUS LAB III AND IV/PROFILING/LAB07/ENTREGABLES/Reporte_geolocation-20261026-2205-00031.xls</location>
+		</link>
+		<link>
+			<name>.Reporte_producto-20261026-1446-00010.pdf</name>
+			<type>1</type>
+			<location>C:/Users/rober/OneDrive/Documents/ROBERTO JIMÉNEZ/GENIUS LAB III AND IV/REPORTES/Reporte_producto-20261026-1446-00010.pdf</location>
+		</link>
+		<link>
+			<name>.Reporte_producto-20261026-2215-00035.xls</name>
+			<type>1</type>
+			<location>C:/Users/rober/OneDrive/Documents/ROBERTO JIMÉNEZ/GENIUS LAB III AND IV/REPORTES/Reporte_producto-20261026-2215-00035.xls</location>
+		</link>
+		<link>
+			<name>.Reporte_producto-20261026-2224-00043.xls</name>
+			<type>1</type>
+			<location>C:/Users/rober/OneDrive/Documents/ROBERTO JIMÉNEZ/GENIUS LAB III AND IV/REPORTES/Reporte_producto-20261026-2224-00043.xls</location>
+		</link>
+		<link>
+			<name>.Reporte_producto-20261026-2225-00047.xls</name>
+			<type>1</type>
+			<location>C:/Users/rober/OneDrive/Documents/ROBERTO JIMÉNEZ/GENIUS LAB III AND IV/REPORTES/Reporte_producto-20261026-2225-00047.xls</location>
+		</link>
+		<link>
+			<name>.Reporte_producto-20261026-2226-00031.xls</name>
+			<type>1</type>
+			<location>C:/Users/rober/OneDrive/Documents/ROBERTO JIMÉNEZ/GENIUS LAB III AND IV/PROFILING/LAB07/ENTREGABLES/Reporte_producto-20261026-2226-00031.xls</location>
+		</link>
+	</linkedResources>
 </projectDescription>

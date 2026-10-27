@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <recyclebin:RecycleBin xmlns:recyclebin="http://www.talend.org/recyclebin">
+  <deletedItems id="_u0UegNFkEfGmq708hwrXFw" path="OLIST" type="METADATA_FILE_DELIMITED"/>
   <deletedItems id="_NkFUYM1oEfG-9pEp4ObE7w" path="GENIS_LAB" type="PROCESS"/>
+  <deletedItems id="_oBu9gM9NEfGGSfc3iS0HxA" path="GENIS_LAB/TABLAS" type="PROCESS"/>
+  <deletedItems id="_ys72kM86EfGsv-lcOhjI8g" path="GENIS_LAB/TABLAS" type="PROCESS"/>
+  <deletedItems id="_9fzy0NF1EfGlKpMundrNlA" path="OLIST" type="TDQ_ANALYSIS_ELEMENT"/>
+  <deletedItems id="_nPivkNGSEfGlKpMundrNlA" path="OLIST" type="TDQ_ANALYSIS_ELEMENT"/>
 </recyclebin:RecycleBin>

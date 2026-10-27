@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataquality.reports:TdReport xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:dataquality.reports="http://dataquality.reports" xmi:id="_lxRd8NGWEfGlKpMundrNlA" name="Reporte_Order_Review" creationDate="2026-10-26T18:40:13.518-0500" defaultContext="Default">
+  <clientDependency href="../Analyses/OLIST/Analisis_Order_Review_0.1.ana#_lxReAdGWEfGlKpMundrNlA"/>
+  <taggedValue xmi:id="_lxRd8dGWEfGlKpMundrNlA" tag="OutputFolder" value="C:\Users\rober\OneDrive\Documents\ROBERTO JIMÉNEZ\GENIUS LAB III AND IV\PROFILING\LAB07\ENTREGABLES"/>
+  <taggedValue xmi:id="_lxRd8tGWEfGlKpMundrNlA" tag="REP_DBINFO_DBTYPE" value="HSQL"/>
+  <taggedValue xmi:id="_lxRd89GWEfGlKpMundrNlA" tag="REP_DBINFO_DBVERSION" value=""/>
+  <taggedValue xmi:id="_lxRd9NGWEfGlKpMundrNlA" tag="REP_DBINFO_HOST" value=""/>
+  <taggedValue xmi:id="_lxRd9dGWEfGlKpMundrNlA" tag="REP_DBINFO_PORT" value=""/>
+  <taggedValue xmi:id="_lxRd9tGWEfGlKpMundrNlA" tag="REP_DBINFO_WAREHOUSE" value=""/>
+  <taggedValue xmi:id="_lxRd99GWEfGlKpMundrNlA" tag="REP_DBINFO_DBNAME" value="talend_dq"/>
+  <taggedValue xmi:id="_lxRd-NGWEfGlKpMundrNlA" tag="REP_DBINFO_SCHEMA" value=""/>
+  <taggedValue xmi:id="_lxRd-dGWEfGlKpMundrNlA" tag="REP_DBINFO_USER" value="sa"/>
+  <taggedValue xmi:id="_lxRd-tGWEfGlKpMundrNlA" tag="REP_DBINFO_PASSWORD" value="enc:system.encryption.key.v1:P/9t3FG0P2QH6wFaUXZfHKK2eRxraFdT1sDu2Q=="/>
+  <taggedValue xmi:id="_lxRd-9GWEfGlKpMundrNlA" tag="REP_DBINFO_PARAMETER" value=""/>
+  <taggedValue xmi:id="_lxRd_NGWEfGlKpMundrNlA" tag="REP_DBINFO_URL" value="jdbc:hsqldb:file:/C:\Talend\8.0.1\studio\workspace\TDQ_reporting_db\talend_dq"/>
+  <taggedValue xmi:id="_lxRd_dGWEfGlKpMundrNlA" tag="REP_DBINFO_DRIVER" value="org.hsqldb.jdbcDriver"/>
+  <taggedValue xmi:id="_lxRd_tGWEfGlKpMundrNlA" tag="REP_PASSWORD_CONTEXT" value="false"/>
+  <taggedValue xmi:id="_lxRd_9GWEfGlKpMundrNlA" tag="Author" value="roberto.jimenez@trial.r0ykakeijk2c72k.us.qlikcloud.com"/>
+  <taggedValue xmi:id="_lyKOwNGWEfGlKpMundrNlA" tag="REP_GENERATE_FILE" value="true"/>
+  <taggedValue xmi:id="_lyKOwdGWEfGlKpMundrNlA" tag="OutputType" value="xls"/>
+  <taggedValue xmi:id="_tMUTMNGWEfGlKpMundrNlA" tag="OutputFileName" value="Reporte_Review_Order"/>
+  <taggedValue xmi:id="_uXVU0NGWEfGlKpMundrNlA" tag="Single output" value="false"/>
+  <taggedValue xmi:id="_ufdWENGWEfGlKpMundrNlA" tag="Purpose" value="Reporte de review order"/>
+  <taggedValue xmi:id="_ufdWEdGWEfGlKpMundrNlA" tag="Description" value="Reporte de review order"/>
+  <taggedValue xmi:id="_ufdWEtGWEfGlKpMundrNlA" tag="Status" value="development"/>
+  <taggedValue xmi:id="_ufd9IdGWEfGlKpMundrNlA" tag="REP_LAST_RUN_CONTEXT" value="Default"/>
+  <taggedValue xmi:id="_ufd9ItGWEfGlKpMundrNlA" tag="REP_AUTHPASSWORD_CONTEXT" value="false"/>
+  <taggedValue xmi:id="_ufd9I9GWEfGlKpMundrNlA" tag="REP_CLIENTSECRET_CONTEXT" value="false"/>
+  <analysisMap xmi:id="_lxReANGWEfGlKpMundrNlA" mustRefresh="true" reportType="Basic">
+    <analysis href="../Analyses/OLIST/Analisis_Order_Review_0.1.ana#_BMTAwdF4EfGlKpMundrNlA"/>
+  </analysisMap>
+  <ExecInformations xmi:id="_z21qcNGWEfGlKpMundrNlA" executionDate="2026-10-26T22:22:47.168-0500" executionDuration="37322" executionNumber="3" lastRunOk="true" lastExecutionNumberOk="3"/>
+  <context xmi:id="_ufd9INGWEfGlKpMundrNlA" confirmationNeeded="false" hide="false" name="Default"/>
+</dataquality.reports:TdReport>

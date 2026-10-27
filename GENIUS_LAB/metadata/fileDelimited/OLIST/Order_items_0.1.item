@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:dataquality.analysis="http://dataquality.analysis" xmlns:orgomg.cwm.objectmodel.core="http:///orgomg/cwm/objectmodel/core.ecore" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_A6txQM72EfGyw5Jcn-D1YQ" name="Order_items" supplierDependency="_Zf5jANGCEfGlKpMundrNlA" dataPackage="_A6txQc72EfGyw5Jcn-D1YQ" Server="Localhost 127.0.0.1" FilePath="C:/Tmp/FUENTES/olist_order_items_dataset.csv" Format="WINDOWS" Encoding="US-ASCII" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_A6txQc72EfGyw5Jcn-D1YQ" name="default" dataManager="_A6txQM72EfGyw5Jcn-D1YQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_A6txQs72EfGyw5Jcn-D1YQ" id="_qitNcM71EfGyw5Jcn-D1YQ" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_A6txQ872EfGyw5Jcn-D1YQ" id="order_id" label="order_id" length="34" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <taggedValue xmi:id="_Zf5jAdGCEfGlKpMundrNlA" tag="Content Type" value="Nominal"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_A6txRM72EfGyw5Jcn-D1YQ" id="order_item_id" label="order_item_id" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;">
+        <taggedValue xmi:id="_Zf5jDNGCEfGlKpMundrNlA" tag="Content Type" value="Interval"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_A6txRc72EfGyw5Jcn-D1YQ" id="product_id" label="product_id" length="34" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <taggedValue xmi:id="_Zf5jH9GCEfGlKpMundrNlA" tag="Content Type" value="Nominal"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_A6txRs72EfGyw5Jcn-D1YQ" id="seller_id" label="seller_id" length="34" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;">
+        <taggedValue xmi:id="_Zf5jMtGCEfGlKpMundrNlA" tag="Content Type" value="Nominal"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_A6txR872EfGyw5Jcn-D1YQ" id="shipping_limit_date" label="shipping_limit_date" length="19" talendType="id_Date" pattern="&quot;yyyy-MM-dd HH:mm:ss&quot;">
+        <taggedValue xmi:id="_Zf5jPdGCEfGlKpMundrNlA" tag="Content Type" value="Interval"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_A6txSM72EfGyw5Jcn-D1YQ" id="price" label="price" length="6" precision="4" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;">
+        <taggedValue xmi:id="_Zf5jSNGCEfGlKpMundrNlA" tag="Content Type" value="Interval"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_A6txSc72EfGyw5Jcn-D1YQ" id="freight_value" label="freight_value" length="5" precision="4" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;">
+        <taggedValue xmi:id="_Zf5jU9GCEfGlKpMundrNlA" tag="Content Type" value="Interval"/>
+      </feature>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+  <orgomg.cwm.objectmodel.core:Dependency xmi:id="_Zf5jANGCEfGlKpMundrNlA" kind="Usage" supplier="_A6txQM72EfGyw5Jcn-D1YQ">
+    <client xsi:type="dataquality.analysis:Analysis" href="../../../TDQ_Data Profiling/Analyses/OLIST/Analisis_order_items_0.1.ana#_apJ1oNF4EfGlKpMundrNlA"/>
+  </orgomg.cwm.objectmodel.core:Dependency>
+</xmi:XMI>

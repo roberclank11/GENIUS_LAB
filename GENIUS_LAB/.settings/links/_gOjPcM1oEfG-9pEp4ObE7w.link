@@ -2,7 +2,7 @@
   "itemId" : "_gOjPcM1oEfG-9pEp4ObE7w",
   "contextList" : [ {
     "contextName" : "QA",
-    "repoId" : "_g2Y8cM1xEfG-9pEp4ObE7w",
+    "repoId" : "_YjtGsM70EfGyw5Jcn-D1YQ",
     "parameterList" : [ {
       "id" : "_5O__us1pEfG-9pEp4ObE7w",
       "name" : "FILE_OLIST"
@@ -24,13 +24,10 @@
     }, {
       "id" : "_5O__wM1pEfG-9pEp4ObE7w",
       "name" : "PIPELINE_NAME"
-    }, {
-      "id" : "_5O__wc1pEfG-9pEp4ObE7w",
-      "name" : "ENV_NAME"
     } ]
   }, {
     "contextName" : "PROD",
-    "repoId" : "_g2Y8cM1xEfG-9pEp4ObE7w",
+    "repoId" : "_YjtGsM70EfGyw5Jcn-D1YQ",
     "parameterList" : [ {
       "id" : "_5O__sc1pEfG-9pEp4ObE7w",
       "name" : "FILE_OLIST"
@@ -52,13 +49,10 @@
     }, {
       "id" : "_5O__t81pEfG-9pEp4ObE7w",
       "name" : "PIPELINE_NAME"
-    }, {
-      "id" : "_5O__uM1pEfG-9pEp4ObE7w",
-      "name" : "ENV_NAME"
     } ]
   }, {
     "contextName" : "Default",
-    "repoId" : "_g2Y8cM1xEfG-9pEp4ObE7w",
+    "repoId" : "_YjtGsM70EfGyw5Jcn-D1YQ",
     "parameterList" : [ {
       "id" : "_kMEkEcybEfGST5Ian5T7BA",
       "name" : "FILE_OLIST"
@@ -80,9 +74,6 @@
     }, {
       "id" : "_kMEkF8ybEfGST5Ian5T7BA",
       "name" : "PIPELINE_NAME"
-    }, {
-      "id" : "_4y-yEM1pEfG-9pEp4ObE7w",
-      "name" : "ENV_NAME"
     } ]
   } ]
 }
