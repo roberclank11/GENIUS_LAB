@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_S-t6kNMaEfGKkJeTPkx2rg" name="cnx_csv_factura" dataPackage="_S-t6kdMaEfGKkJeTPkx2rg" Server="Localhost 127.0.0.1" FilePath="C:/Tmp/FUENTES/IA/FACTURA.csv" Format="WINDOWS" Encoding="US-ASCII" FieldSeparatorValue="&quot;|&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" EscapeType="CSV" CsvOption="true" FieldSeparatorType="Custom UTF8"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_S-t6kdMaEfGKkJeTPkx2rg" name="default" dataManager="_S-t6kNMaEfGKkJeTPkx2rg">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_S-t6ktMaEfGKkJeTPkx2rg" id="_NbaDANMaEfGKkJeTPkx2rg" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_S-t6k9MaEfGKkJeTPkx2rg" label="NUM_FACTURA" length="13" talendType="id_Long" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_S-t6lNMaEfGKkJeTPkx2rg" label="CEDULA" length="10" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_S-t6ldMaEfGKkJeTPkx2rg" label="FECHA_EMISION" length="10" talendType="id_Date" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_S-t6ltMaEfGKkJeTPkx2rg" label="AUTORIZACION" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_S-t6l9MaEfGKkJeTPkx2rg" label="MONTO" length="6" precision="4" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_S-t6mNMaEfGKkJeTPkx2rg" label="IVA" length="4" precision="3" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_S-t6mdMaEfGKkJeTPkx2rg" label="DESCUENTO" length="4" precision="3" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_S-t6mtMaEfGKkJeTPkx2rg" label="COD_LOCAL" length="8" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

@@ -1,0 +1,106 @@
+{
+  "itemId" : "_D9GZgNLuEfGRZcS8lhSacw",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_8RBJgNLrEfGRZcS8lhSacw",
+    "parameterList" : [ {
+      "id" : "_kMEkEcybEfGST5Ian5T7BA",
+      "name" : "FILE_OLIST"
+    }, {
+      "id" : "_kMEkEsybEfGST5Ian5T7BA",
+      "name" : "DB_HOST"
+    }, {
+      "id" : "_kMEkE8ybEfGST5Ian5T7BA",
+      "name" : "DB_PORT"
+    }, {
+      "id" : "_kMEkFMybEfGST5Ian5T7BA",
+      "name" : "DB_NAME"
+    }, {
+      "id" : "_kMEkFcybEfGST5Ian5T7BA",
+      "name" : "DB_USER"
+    }, {
+      "id" : "_kMEkFsybEfGST5Ian5T7BA",
+      "name" : "DB_PASSWORD"
+    }, {
+      "id" : "_kMEkF8ybEfGST5Ian5T7BA",
+      "name" : "LOAD_SOURCE_TAG"
+    }, {
+      "id" : "_4y-yEM1pEfG-9pEp4ObE7w",
+      "name" : "ENV_NAME"
+    }, {
+      "id" : "_KJsJgNLsEfGRZcS8lhSacw",
+      "name" : "run_id"
+    }, {
+      "id" : "_KJsJgdLsEfGRZcS8lhSacw",
+      "name" : "batch_size"
+    } ]
+  }, {
+    "contextName" : "QA",
+    "repoId" : "_8RBJgNLrEfGRZcS8lhSacw",
+    "parameterList" : [ {
+      "id" : "_5O__us1pEfG-9pEp4ObE7w",
+      "name" : "FILE_OLIST"
+    }, {
+      "id" : "_5O__u81pEfG-9pEp4ObE7w",
+      "name" : "DB_HOST"
+    }, {
+      "id" : "_5O__vM1pEfG-9pEp4ObE7w",
+      "name" : "DB_PORT"
+    }, {
+      "id" : "_5O__vc1pEfG-9pEp4ObE7w",
+      "name" : "DB_NAME"
+    }, {
+      "id" : "_5O__vs1pEfG-9pEp4ObE7w",
+      "name" : "DB_USER"
+    }, {
+      "id" : "_5O__v81pEfG-9pEp4ObE7w",
+      "name" : "DB_PASSWORD"
+    }, {
+      "id" : "_5O__wM1pEfG-9pEp4ObE7w",
+      "name" : "LOAD_SOURCE_TAG"
+    }, {
+      "id" : "_5O__wc1pEfG-9pEp4ObE7w",
+      "name" : "ENV_NAME"
+    }, {
+      "id" : "_KJsJhNLsEfGRZcS8lhSacw",
+      "name" : "run_id"
+    }, {
+      "id" : "_KJsJhdLsEfGRZcS8lhSacw",
+      "name" : "batch_size"
+    } ]
+  }, {
+    "contextName" : "PROD",
+    "repoId" : "_8RBJgNLrEfGRZcS8lhSacw",
+    "parameterList" : [ {
+      "id" : "_5O__sc1pEfG-9pEp4ObE7w",
+      "name" : "FILE_OLIST"
+    }, {
+      "id" : "_5O__ss1pEfG-9pEp4ObE7w",
+      "name" : "DB_HOST"
+    }, {
+      "id" : "_5O__s81pEfG-9pEp4ObE7w",
+      "name" : "DB_PORT"
+    }, {
+      "id" : "_5O__tM1pEfG-9pEp4ObE7w",
+      "name" : "DB_NAME"
+    }, {
+      "id" : "_5O__tc1pEfG-9pEp4ObE7w",
+      "name" : "DB_USER"
+    }, {
+      "id" : "_5O__ts1pEfG-9pEp4ObE7w",
+      "name" : "DB_PASSWORD"
+    }, {
+      "id" : "_5O__t81pEfG-9pEp4ObE7w",
+      "name" : "LOAD_SOURCE_TAG"
+    }, {
+      "id" : "_5O__uM1pEfG-9pEp4ObE7w",
+      "name" : "ENV_NAME"
+    }, {
+      "id" : "_KJsJgtLsEfGRZcS8lhSacw",
+      "name" : "run_id"
+    }, {
+      "id" : "_KJsJg9LsEfGRZcS8lhSacw",
+      "name" : "batch_size"
+    } ]
+  } ]
+}
