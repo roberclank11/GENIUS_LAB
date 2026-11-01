@@ -1,0 +1,41 @@
+{
+  "itemId" : "_Q_OH0NVmEfGc84Xp7W_96g",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_fJjLcNVZEfGc84Xp7W_96g",
+    "parameterList" : [ {
+      "id" : "_fJ_3YdVZEfGc84Xp7W_96g",
+      "name" : "PG_HOST"
+    }, {
+      "id" : "_fJ_3YtVZEfGc84Xp7W_96g",
+      "name" : "PG_PORT"
+    }, {
+      "id" : "_fJ_3Y9VZEfGc84Xp7W_96g",
+      "name" : "PG_DATABASE"
+    }, {
+      "id" : "_fJ_3ZNVZEfGc84Xp7W_96g",
+      "name" : "PG_SCHEMA"
+    }, {
+      "id" : "_fJ_3ZdVZEfGc84Xp7W_96g",
+      "name" : "PG_USER"
+    }, {
+      "id" : "_fJ_3ZtVZEfGc84Xp7W_96g",
+      "name" : "PG_PASSWORD"
+    }, {
+      "id" : "_fJ_3Z9VZEfGc84Xp7W_96g",
+      "name" : "PG_SSLMODE"
+    }, {
+      "id" : "_fJ_3aNVZEfGc84Xp7W_96g",
+      "name" : "TABLA_ORIGEN"
+    }, {
+      "id" : "_fJ_3adVZEfGc84Xp7W_96g",
+      "name" : "TABLA_DESTINO"
+    }, {
+      "id" : "_fJ_3atVZEfGc84Xp7W_96g",
+      "name" : "CSV_PATH"
+    }, {
+      "id" : "_bJavINVfEfGc84Xp7W_96g",
+      "name" : "LOAD_SOURCE_TAG"
+    } ]
+  } ]
+}

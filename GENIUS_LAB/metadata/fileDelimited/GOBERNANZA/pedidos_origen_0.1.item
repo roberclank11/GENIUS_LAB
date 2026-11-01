@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_j8Xn8NVeEfGc84Xp7W_96g" name="pedidos_origen" dataPackage="_j8Xn8dVeEfGc84Xp7W_96g" Server="Localhost 127.0.0.1" FilePath="C:/Tmp/FUENTES/GOBERNANZA/pedidos_origen.csv" Format="WINDOWS" Encoding="UTF-8" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_j8Xn8dVeEfGc84Xp7W_96g" name="default" dataManager="_j8Xn8NVeEfGc84Xp7W_96g">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_j8Xn8tVeEfGc84Xp7W_96g" id="_-zAIoNVdEfGc84Xp7W_96g" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_j8Xn89VeEfGc84Xp7W_96g" label="pedido_id" length="6" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_j8Xn9NVeEfGc84Xp7W_96g" label="fecha_pedido" length="10" talendType="id_Date" pattern="&quot;yyyy-MM-dd&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_j8Xn9dVeEfGc84Xp7W_96g" label="estado_pedido" length="10" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_j8Xn9tVeEfGc84Xp7W_96g" label="moneda" length="3" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_j8Xn99VeEfGc84Xp7W_96g" label="importe_total" length="-1" precision="2" talendType="id_BigDecimal" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

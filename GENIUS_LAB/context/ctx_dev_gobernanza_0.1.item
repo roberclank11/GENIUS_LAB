@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_fJ_3YNVZEfGc84Xp7W_96g" confirmationNeeded="false" hide="false" name="Default">
+  <contextParameter xmi:id="_fJ_3YdVZEfGc84Xp7W_96g" comment="" name="PG_HOST" prompt="PG_HOST?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="pg-19bcad78-gobernanza-2001.l.aivencloud.com"/>
+  <contextParameter xmi:id="_fJ_3YtVZEfGc84Xp7W_96g" comment="" name="PG_PORT" prompt="PG_PORT?" promptNeeded="false" repositoryContextId="built-in" type="id_Integer" value="16098"/>
+  <contextParameter xmi:id="_fJ_3Y9VZEfGc84Xp7W_96g" comment="" name="PG_DATABASE" prompt="PG_DATABASE?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="db_ventas_openmetadata"/>
+  <contextParameter xmi:id="_fJ_3ZNVZEfGc84Xp7W_96g" comment="" name="PG_SCHEMA" prompt="PG_SCHEMA?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="dsa"/>
+  <contextParameter xmi:id="_fJ_3ZdVZEfGc84Xp7W_96g" comment="" name="PG_USER" prompt="PG_USER?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="avnadmin"/>
+  <contextParameter xmi:id="_fJ_3ZtVZEfGc84Xp7W_96g" comment="" name="PG_PASSWORD" prompt="PG_PASSWORD?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:npAPZVcwQNV0UDpnYV7AilboyhNX5im7Ee2R/TcUG6UzcoqPZF4BrtGKNSO/2JBmvGcYRw=="/>
+  <contextParameter xmi:id="_fJ_3Z9VZEfGc84Xp7W_96g" comment="" name="PG_SSLMODE" prompt="PG_SSLMODE?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="require"/>
+  <contextParameter xmi:id="_fJ_3aNVZEfGc84Xp7W_96g" comment="" name="TABLA_ORIGEN" prompt="TABLA_ORIGEN?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="pedidos_origen"/>
+  <contextParameter xmi:id="_fJ_3adVZEfGc84Xp7W_96g" comment="" name="TABLA_DESTINO" prompt="TABLA_DESTINO?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="ventas_validas"/>
+  <contextParameter xmi:id="_fJ_3atVZEfGc84Xp7W_96g" comment="" name="CSV_PATH" prompt="CSV_PATH?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:/Tmp/FUENTES/GOBERNANZA/"/>
+  <contextParameter xmi:id="_bJavINVfEfGc84Xp7W_96g" comment="" name="LOAD_SOURCE_TAG" prompt="LOAD_SOURCE_TAG?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=" lab_gobernanza_pipeline"/>
+</talendfile:ContextType>
